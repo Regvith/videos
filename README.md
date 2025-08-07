@@ -11,5 +11,11 @@ https://github.com/Regvith/videos/issues/4
 https://github.com/Regvith/videos/issues/5
 # pid maze solver with laser scanner
 https://github.com/Regvith/videos/issues/6
-# cartographer slma 
+# rick and morty chase 
 https://github.com/Regvith/videos/issues/7
+# cartographer slma 
+https://github.com/Regvith/videos/issues/8
+# webapp for ros2 control of fastbot simulation
+https://github.com/Regvith/videos/issues/9
+# 3-dof kinematic arm doing ellipsoidal motion without moveit2
+https://github.com/Regvith/videos/issues/10
