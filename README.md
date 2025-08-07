@@ -21,5 +21,9 @@ https://github.com/Regvith/videos/issues/9
 https://github.com/Regvith/videos/issues/10
 # rb1 implementation of robotnik
 https://github.com/Regvith/videos/issues/11
-# robot patrol using turtlebot3
+# gazebo implementation of rb1
 https://github.com/Regvith/videos/issues/12
+# robot patrol using turtlebot3
+https://github.com/Regvith/videos/issues/13
+# holonomic kinematic model for rosbot xl
+https://github.com/Regvith/videos/issues/14
