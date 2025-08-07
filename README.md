@@ -19,3 +19,7 @@ https://github.com/Regvith/videos/issues/8
 https://github.com/Regvith/videos/issues/9
 # 3-dof kinematic arm doing ellipsoidal motion without moveit2
 https://github.com/Regvith/videos/issues/10
+# rb1 implementation of robotnik
+https://github.com/Regvith/videos/issues/11
+# robot patrol using turtlebot3
+https://github.com/Regvith/videos/issues/12
